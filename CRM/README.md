@@ -11,5 +11,3 @@ JSTL
 Active Record
 
 MySQL
-
-![alt text](CRM.jpg)
